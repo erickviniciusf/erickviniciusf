@@ -10,22 +10,24 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erick.viniciusfff@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/erickviniciusf)
 
+
 </div>
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About me
 
-Desenvolvedor Full Stack em transição de carreira, cursando **Análise e Desenvolvimento de Sistemas** em Brasília. Construo produtos reais — não apenas tutoriais.
+I am a Full Stack Developer in career transition, currently pursuing a degree in **Systems Analysis and Development** in Brasília. I build real-world products — not just tutorials.
 
-Meu maior projeto é a **Stay.o**, uma plataforma SaaS com IA para hotelaria que desenvolvi do zero, com backend 100% em produção integrando **WhatsApp Business API**, **IA conversacional** e automação de processos.
+My flagship project is **Stay.o**, an AI-powered SaaS platform for the hospitality industry that I built from scratch. It features a 100% production-ready backend integrating the **WhatsApp Business API**, **conversational AI**, and process automation.
 
-Tenho 7 anos de experiência em hotelaria de alto padrão — o que me dá uma visão única para transformar problemas reais de negócio em soluções tecnológicas funcionais.
+With 7 years of experience in luxury hospitality, I bring a unique perspective to software engineering, effectively translating real business challenges into functional, high-impact technological solutions.
 
-- 🎓 Cursando ADS — 2º semestre
-- 🤖 Bootcamp Full Stack — TripleTen
-- 🏦 Bootcamp Backend — Santander (selecionado)
-- 🌍 Aberto a vagas remotas internacionais
+- 🎓 Pursuing Systems Analysis and Development — 2nd Semester
+- 🤖 Full Stack Bootcamp — TripleTen
+- 🏦 Backend Bootcamp — Santander (selected candidate)
+- 🌍 Open to international remote opportunities
+- 🛠️ Experienced in decoupling Full-stack applications (Client-Server Architecture) and implementing secure HTTP tunneling (Ngrok) for remote API testing across external devices.
 
 ---
 
@@ -49,6 +51,9 @@ Tenho 7 anos de experiência em hotelaria de alto padrão — o que me dá uma v
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![Ngrok](https://img.shields.io/badge/Ngrok-1F1E2E?style=for-the-badge&logo=ngrok&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
 
 ---
 
